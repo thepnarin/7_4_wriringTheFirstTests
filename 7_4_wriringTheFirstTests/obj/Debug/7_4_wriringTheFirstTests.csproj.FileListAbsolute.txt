@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\7_4_wriringTheFirstTests\7_4_wriringTheFirstTests\bin\Debug\7_4_wriringTheFirstTests.exe.config
+D:\[OOP] - Object Oriented Programming\Test\7_4_wriringTheFirstTests\7_4_wriringTheFirstTests\bin\Debug\7_4_wriringTheFirstTests.exe
+D:\[OOP] - Object Oriented Programming\Test\7_4_wriringTheFirstTests\7_4_wriringTheFirstTests\bin\Debug\7_4_wriringTheFirstTests.pdb
+D:\[OOP] - Object Oriented Programming\Test\7_4_wriringTheFirstTests\7_4_wriringTheFirstTests\obj\Debug\7_4_wriringTheFirstTests.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\7_4_wriringTheFirstTests\7_4_wriringTheFirstTests\obj\Debug\7_4_wriringTheFirstTests.exe
+D:\[OOP] - Object Oriented Programming\Test\7_4_wriringTheFirstTests\7_4_wriringTheFirstTests\obj\Debug\7_4_wriringTheFirstTests.pdb
